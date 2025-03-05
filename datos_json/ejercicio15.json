@@ -1,0 +1,13 @@
+[
+  {
+    "Marca" : "raider",
+    "Año" : 2025,
+    "Sistema_Alimentacion" : "Carburada",
+    "cilindraje" : "125"
+  },{
+    "Marca" : "Duke",
+    "Año" : 2026,
+    "Sistema_Alimentacion" : "Inyeccio",
+    "cilindraje" : 1290
+  }
+]
