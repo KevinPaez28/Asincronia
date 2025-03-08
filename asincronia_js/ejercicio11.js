@@ -1,5 +1,5 @@
-// 11. Crea una Promisa que se resuelva después de 3 segundos y luego imprima "Promisa
-// resuelta" cuando se cumpla.
+alert(`11. Crea una Promisa que se resuelva después de 3 segundos y luego imprima "Promisa
+resuelta" cuando se cumpla.`)
 let array = [-7,-1,-7,-28,-84,-74,-14,-25] 
 function promesa(array) {
   return new Promise((resolve,reject) => {
@@ -21,3 +21,9 @@ promesa(array).then((mensaje) => {
 .catch((error) => {
     console.log(error);
 });
+
+
+
+
+
+

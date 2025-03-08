@@ -1,8 +1,7 @@
-// 5. Crear una función every que acepte un array y un callback y que:
-// • por cada elemento del array ejecute el callback pasándole dicho elemento como
-// argumento
-// • devuelva true si todas las llamadas al callback devolvieron true
-
+alert(`5. Crear una función every que acepte un array y un callback y que:
+• por cada elemento del array ejecute el callback pasándole dicho elemento como
+argumento
+• devuelva true si todas las llamadas al callback devolvieron true`)
 let array = [2, 1,  4,  3, 45, 6,  -5,  14, 17, 24]
 function every(array, callback) {
   let palabra = true

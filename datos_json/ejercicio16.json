@@ -1,0 +1,30 @@
+[
+  {
+    "Nombre": "Luis Díaz",
+    "Edad": 27,
+    "Posición": "Extremo Izquierdo",
+    "Equipo": "Liverpool",
+    "Goles_Internacionales": 10
+  },
+  {
+    "Nombre": "James Rodríguez",
+    "Edad": 32,
+    "Posición": "Mediocampista",
+    "Equipo": "São Paulo",
+    "Goles_Internacionales": 27
+  },
+  {
+    "Nombre": "Andrés Iniesta",
+    "Edad": 39,
+    "Posición": "Mediocampista",
+    "Equipo": "Emirates Club",
+    "Goles_Internacionales": 13
+  },
+  {
+    "Nombre": "Angel Di María",
+    "Edad": 36,
+    "Posición": "Extremo Derecho",
+    "Equipo": "Benfica",
+    "Goles_Internacionales": 29
+  }
+]

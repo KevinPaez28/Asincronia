@@ -1,0 +1,26 @@
+[
+  {
+    "Marca": "HP",
+    "Modelo": "XPS 13",
+    "Procesador": "Intel Core i7",
+    "RAM": "16GB",
+    "Almacenamiento": "512GB SSD",
+    "Precio": 800
+  },
+  {
+    "Marca": "Apple",
+    "Modelo": "MacBook Pro",
+    "Procesador": "Apple M2",
+    "RAM": "16GB",
+    "Almacenamiento": "1TB SSD",
+    "Precio": 2000
+  },
+  {
+    "Marca": "HP",
+    "Modelo": "Spectre x360",
+    "Procesador": "Intel Core i5",
+    "RAM": "8GB",
+    "Almacenamiento": "256GB SSD",
+    "Precio": 1100
+  }
+]
